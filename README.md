@@ -33,5 +33,5 @@ Here are some of my projects:
 1. **Virtual Agenda** – A PHP-based contact management system.  
 2. **[Another Project]** – Short description of what it does.  
 3. **[Another Project]** – Short description.  
-![My Image](images/github.gif)
+![My Image](images/guthub.gif)
 
