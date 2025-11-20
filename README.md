@@ -1,3 +1,4 @@
+![My Image](images/guthub.gif)
 # Welcome to My GitHub
 
 Hi! I'm **Felix Tejedor Zapatero**, a passionate developer currently studying **ASIR (Administration of Systems and Computer Networks)** and aiming to specialize in **cybersecurity**. This GitHub showcases my personal projects, experiments, and contributions.  
@@ -33,5 +34,5 @@ Here are some of my projects:
 1. **Virtual Agenda** – A PHP-based contact management system.  
 2. **[Another Project]** – Short description of what it does.  
 3. **[Another Project]** – Short description.  
-![My Image](images/guthub.gif)
+
 
