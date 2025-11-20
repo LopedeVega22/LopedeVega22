@@ -6,19 +6,33 @@ Hi! I'm **Felix Tejedor Zapatero**, a passionate developer currently studying **
 
 ## About Me
 
-- 💻 Developer interested in **PHP, HTML, CSS, JavaScript** and full-stack development.  
-- 🔐 Focused on cybersecurity and building secure, reliable systems.  
-- 🌐 Exploring modern web technologies and practical applications.  
-- 📫 Connect with me on [LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/felix-tejedor-zapatero-722a0425b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQVy5rN7BTyOYS2mzKmKXGA%3D%3D))  
+- 💻 Developer interested in **full-stack development**  
+- 🔐 Focused on **cybersecurity** and building secure, reliable systems  
+- 🌐 Exploring modern web technologies and practical applications  
+- 🎓 Currently studying **ASIR**  
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/felix-tejedor-zapatero-722a0425b)
+
+---
+
+## Skills & Technologies
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-ff0000?style=for-the-badge&logo=hackthebox&logoColor=white)
 
 ---
 
 ## Featured Projects
 
-Here you can briefly list your main projects:
+Here are some of my projects:
 
 1. **Virtual Agenda** – A PHP-based contact management system.  
 2. **[Another Project]** – Short description of what it does.  
 3. **[Another Project]** – Short description.  
-
-[My Image](images/profile.jpg)
+![My Image](images/profile.jpg)
+```markdown
+![My Image](images/profile.jpg)
